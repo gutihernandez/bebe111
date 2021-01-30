@@ -1,5 +1,5 @@
-@prefix e: <http://example.org/entity#> .
+@prefix se: <http://example.org/entity#> .
 @prefix r: <http://example.org/relation#> .
 
-e:3964744 	 r:_hyponym 	 e:4371774 	 . 
-e:260881 	 r:_hypernym 	 e:260622 	 . 
+se:3964744 	 r:_hyponym 	 se:4371774 	 . 
+se:260881 	 r:_hypernym 	 se:260622 	 . 
