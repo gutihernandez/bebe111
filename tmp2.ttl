@@ -1,5 +1,5 @@
-@prefix e: entity .
-@prefix r: rel .
+@prefix e: <entity> .
+@prefix r: <rel> .
 
 e:3964744 	 r:_hyponym 	 e:4371774 	 . 
 e:260881 	 r:_hypernym 	 e:260622 	 . 
