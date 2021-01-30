@@ -1,4 +1,5 @@
-@prefix : .
+@prefix e: <ent>.
+@prefix r: <rel>.
 
-neo4voc:3964744 	 neo4ind:_hyponym 	 neo4voc:4371774 	 . 
-neo4voc:260881 	 neo4ind:_hypernym 	 neo4voc:260622 	 . 
+ent:3964744 	 rel:_hyponym 	 ent:4371774 	 . 
+ent:260881 	 rel:_hypernym 	 ent:260622 	 . 
