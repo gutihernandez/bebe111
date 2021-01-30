@@ -1,5 +1,4 @@
-@prefix neo4voc: <http://neo4j.org/vocab/sw#> .
-@prefix neo4ind: <http://neo4j.org/ind#> .
+@prefix : .
 
 neo4voc:3964744 	 neo4ind:_hyponym 	 neo4voc:4371774 	 . 
 neo4voc:260881 	 neo4ind:_hypernym 	 neo4voc:260622 	 . 
