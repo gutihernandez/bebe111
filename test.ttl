@@ -4,5 +4,5 @@
 neo4voc:___m___027rn 	 neo4ind:___location___country___form_of_government 	 neo4voc:___m___06cx9 	 . 
  neo4voc:___m___017dcd 	 neo4ind:___tv___tv_program___regular_cast___tv___regular_tv_appearance___actor 	 neo4voc:___m___06v8s0 	 . 
  neo4voc:___m___07s9rl0 	 neo4ind:___media_common___netflix_genre___titles 	 neo4voc:___m___0170z3 	 . 
- neo4voc:___m___01sl1q 	 neo4ind:___award___award_winner___awards_won___award___award_honor___award_winner 	 neo4voc:___m___044mz_ 	 . 
+ neo4voc:___m___01sl1q 	 neo4ind:___award.___award_winner___awards_won___award___award_honor___award_winner 	 neo4voc:___m___044mz_ 	 . 
  
